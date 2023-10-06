@@ -2,5 +2,5 @@
 
 ## Team Members
 - Nathan Y
-- Jerome
+- Jerome Gache
 
